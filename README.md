@@ -19,3 +19,6 @@ Three additional tips if you are making new mod instead of fix old mod's TANGENT
 # Acknowledgement
 
 Special thanks for GIMI's developer: SilentNightSound
+
+# Reference
+- https://github.com/festivities/PrimoToon/blob/main/Scripts/Festivity%20Scripts/Editor/AverageNormals.cs
